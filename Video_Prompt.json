@@ -1,0 +1,149 @@
+{
+
+"SCALE": {
+
+"Subject": {
+
+"primary": "A magnificent traditional South Indian Hindu temple chariot (Ther), richly decorated with intricate wooden carvings, colorful silk fabrics, flower garlands, traditional ornaments, and sacred motifs.",
+
+"details": "The towering temple chariot features multiple tiers, beautifully carved wooden pillars, decorative umbrellas, vibrant flowers, and traditional religious decorations. Hundreds of devotees participate in pulling the massive chariot using thick ceremonial ropes."
+
+},
+
+"Composition": {
+
+"shot_type": "Wide cinematic establishing shot followed by medium shots and close-up details.",
+
+"camera_angle": "Low-angle shots emphasizing the enormous height and grandeur of the temple chariot, combined with elevated street-level perspectives.",
+
+"camera_movement": "Slow cinematic tracking shots moving alongside the chariot, occasional drone-style aerial views, and smooth forward camera movement.",
+
+"framing": "The temple chariot remains the central focal point, with devotees, traditional buildings, and festival decorations filling the surrounding frame.",
+
+"aspect_ratio": "16:9",
+
+"video_quality": "Ultra-realistic 4K cinematic video."
+
+},
+
+"Action": {
+
+"primary_action": "Hundreds of devotees collectively pull the magnificent temple chariot through the traditional streets of Srirangam using massive thick ropes.",
+
+"secondary_actions": [
+
+"The enormous wooden wheels slowly rotate as the chariot moves forward.",
+
+"Devotees enthusiastically pull the ropes in rhythm.",
+
+"Traditional musicians play nadaswaram and thavil.",
+
+"Priests and devotees offer prayers and flowers.",
+
+"Flower garlands and decorative fabrics gently sway as the chariot moves.",
+
+"Crowds cheer, celebrate, and fold their hands in devotion.",
+
+"Temple bells ring as the grand procession advances."
+
+],
+
+"motion": "Natural, realistic human movements and physically accurate slow movement of the heavy temple chariot.",
+
+"sequence": "Begin with a grand wide shot of the decorated chariot, transition to devotees pulling the ropes, capture the rotating wooden wheels, and conclude with a majestic frontal view of the chariot progressing through the crowded streets."
+
+},
+
+"Location": {
+
+"place": "Srirangam, Tiruchirappalli, Tamil Nadu, India.",
+
+"environment": "The historic streets surrounding the Sri Ranganathaswamy Temple, featuring traditional South Indian architecture, colorful temple structures, heritage buildings, and festive decorations.",
+
+"atmosphere": "A vibrant and spiritually uplifting temple festival filled with thousands of devotees, traditional cultural elements, and a strong sense of community devotion.",
+
+"cultural_authenticity": "Authentic Srirangam temple festival atmosphere, traditional Tamil Nadu customs, authentic South Indian temple chariot design, and culturally accurate traditional clothing."
+
+},
+
+"Aesthetic": {
+
+"visual_style": "Photorealistic, cinematic documentary style with rich cultural authenticity.",
+
+"lighting": "Warm natural morning sunlight with soft golden highlights illuminating the wooden carvings and colorful decorations.",
+
+"color_palette": [
+
+"Traditional temple red",
+
+"Vibrant saffron",
+
+"Deep maroon",
+
+"Golden yellow",
+
+"Natural wood brown",
+
+"Fresh floral colors"
+
+],
+
+"mood": "Grand, devotional, energetic, celebratory, spiritual, and culturally rich.",
+
+"visual_details": "Highly detailed wooden carvings, realistic fabric textures, natural skin tones, authentic flower decorations, atmospheric depth, and cinematic lighting.",
+
+"rendering": "Ultra-realistic 4K, HDR, natural motion blur, detailed textures, smooth camera transitions, realistic crowd dynamics."
+
+}
+
+},
+
+"Technical_Settings": {
+
+"duration": "10-15 seconds",
+
+"aspect_ratio": "16:9",
+
+"resolution": "4K",
+
+"frame_rate": "24 fps",
+
+"camera_style": "Cinematic documentary",
+
+"motion_quality": "Smooth and natural"
+
+},
+
+"Negative_Prompt": [
+
+"Cartoon or animated appearance",
+
+"Fantasy-style temple chariot",
+
+"Modern vehicles",
+
+"Incorrect temple architecture",
+
+"Unrealistic human faces",
+
+"Deformed hands or bodies",
+
+"Floating objects",
+
+"Distorted chariot wheels",
+
+"Exaggerated crowd movements",
+
+"Artificial-looking decorations",
+
+"Text overlays",
+
+"Watermarks",
+
+"Flickering frames",
+
+"Unnatural camera movements"
+
+]
+
+} 

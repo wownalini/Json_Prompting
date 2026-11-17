@@ -1,0 +1,35 @@
+{
+
+"subject": "A large wooden temple chariot (ther) being pulled by devotees",
+
+"setting": {
+
+"place": "the streets of Srirangam, Tamil Nadu",
+
+"era": "contemporary",
+
+"time_of_day": "late afternoon"
+
+},
+
+"lighting": "warm golden sunlight filtering through the streets",
+
+"camera": {
+
+"shot": "medium-wide shot",
+
+"lens": "35mm",
+
+"angle": "slightly low angle"
+
+},
+
+"palette": ["deep red", "saffron", "gold", "earth tones"],
+
+"style": "photorealistic",
+
+"aspect_ratio": "16:9",
+
+"avoid": ["cartoon", "anime", "generic Indian temple", "modern vehicles", "tourists"]
+
+} 
